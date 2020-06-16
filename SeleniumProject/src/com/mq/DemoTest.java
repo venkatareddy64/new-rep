@@ -11,4 +11,21 @@ public class DemoTest {
 	  System.out.println("demo3");
 	  System.out.println("29");
   }
+  @Test
+  public void f1()
+  {
+	  System.out.println("demo1");
+	  System.out.println("demo2");
+	  System.out.println("demo3");
+	  System.out.println("29");
+  }
+  @Test
+  public void f2()
+  {
+	  System.out.println("demo1");
+	  System.out.println("demo2");
+	  System.out.println("demo3");
+	  System.out.println("29");
+  }
+
 }
