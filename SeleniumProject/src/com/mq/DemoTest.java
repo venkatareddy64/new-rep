@@ -38,20 +38,33 @@ public class DemoTest {
 	  System.out.println("demo1");
 	  System.out.println("demo2");
 	  System.out.println("demo3");
+	  System.out.println("29");
   }
   @Test
+<<<<<<< HEAD
   public void f3()
+=======
+  public void f1()
+>>>>>>> master
   {
 	  System.out.println("demo1");
 	  System.out.println("demo2");
 	  System.out.println("demo3");
+<<<<<<< HEAD
   }
   @Test
   public void r1()
+=======
+	  System.out.println("29");
+  }
+  @Test
+  public void f2()
+>>>>>>> master
   {
 	  System.out.println("demo1");
 	  System.out.println("demo2");
 	  System.out.println("demo3");
+<<<<<<< HEAD
   }
 
   @Test
@@ -63,4 +76,9 @@ public class DemoTest {
   }
 
 
+=======
+	  System.out.println("29");
+  }
+
+>>>>>>> master
 }
